@@ -51,7 +51,7 @@ def estanOrdenados(lista):
     else:
         return "False"
 
-    #Cuarta funcion/Por ahora ni puta idea de como hacerla, ok se podria usar in pero aun no se como utilizarla
+    #Cuarta funcion
 def sonAnagramas(lista1,lista2):
     a1=lista1.sort()
     a2=lista2.sort()
